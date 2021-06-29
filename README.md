@@ -39,10 +39,10 @@ Find me on...
 | Typing Project Advanced!  It really must be true what they say... The 
 | Dream™ never dies.
 |
-| In this initial release (which likely also be the only release), all menus, 
-| options, dialog boxes, and screens have been fully translated.  Most cases of 
-| important spoken dialog have been subtitled where possible, but due to 
-| technical limitations I was not able to achieve this everywhere.
+| In this initial release (which will likely also be the only release),
+| menus, options, dialog boxes, and screens have been fully translated.  Most 
+| cases of important spoken dialog have been subtitled where possible, but due 
+| to technical limitations I was not able to achieve this everywhere.
 | Furthermore, all levels are fully playable in English thanks to the clever 
 | hack I worked out for the first game.
 |

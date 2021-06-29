@@ -34,10 +34,10 @@ Find me on...
 | Typing Project Advanced!  It really must be true what they say... The 
 | Dream™ never dies.
 |
-| In this initial release (which likely also be the only release), all menus, 
-| options, dialog boxes, and screens have been fully translated.  Most cases of 
-| important spoken dialog have been subtitled where possible, but due to 
-| technical limitations I was not able to achieve this everywhere.  
+| In this initial release (which will likely also be the only release),
+| menus, options, dialog boxes, and screens have been fully translated.  Most 
+| cases of important spoken dialog have been subtitled where possible, but due 
+| to technical limitations I was not able to achieve this everywhere.
 | Furthermore, all levels are fully playable in English thanks to the clever 
 | hack I worked out for the first game.
 |
@@ -71,8 +71,8 @@ Find me on...
 | All of that being said, I hope those reading these release notes and playing 
 | this game are happy to have another excuse to bust out their Dreamcast 
 | keyboards.  In closing, I want to thank all of the wonderful people in the 
-| Dreamcast scene for their awesome passion for SEGA’s swan song console.  
-| The Dreamcast has always been, and always will be, a huge part of my life.  
+| Dreamcast scene for their awesome passion for SEGA’s swan song console.
+| The Dreamcast has always been, and always will be, a huge part of my life.
 | Yet, without the fans, none of that would be possible.  Keep Dreaming™, my 
 | friends...
 |

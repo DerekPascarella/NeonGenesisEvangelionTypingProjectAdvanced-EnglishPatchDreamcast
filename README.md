@@ -1,6 +1,5 @@
-#### Download fully-patched disc images:
-  * <a href="https://mega.nz/file/yEVQRByY#f12OCsZh6MUlCFwCtLGUDZPtjKTmV8rNgEHbu6bQSO0">GDI</a>
-  * <a href="https://mega.nz/file/iBFwEb6B#hXwwiFKDRYD7vVaYaQPDtxO2TvqrjRw3W6hxsnhkTlQ">CDI</a>
+#### Download this patch in DCP format for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a>:
+  * <a href="https://github.com/DerekPascarella/NeonGenesisEvangelionTypingProjectAdvanced-EnglishPatchDreamcast/releases/download/1.0/Neon.Genesis.Evangelion.-.Typing.Project.Advanced.English.-.v1.0.dcp">Neon Genesis Evangelion - Typing Project Advanced (English - v1.0).dcp</a>
 <br>
 <pre>
 Neon Genesis Evangelion - Typing Project Advanced (Shinseiki Evangelion: Typing Hokan Keikaku)
@@ -22,11 +21,23 @@ Find me on...
 
 .-----------::[ Patching Instructions ]::-----------
 |
-| Unfortunately, this release could not come in the form of a standard patch
-| using my Universal Dreamcast Patcher tool.  This is because the GDIs and even
-| Redump-style CUEs for this game have some sort of issue that prevents their
-| successful extraction via gditools.  Therefore, I have opted to publish the
-| fully-patched GDI and CDI for all to enjoy.
+| The .DCP patch file shipped with this release is designed for use with
+| Universal Dreamcast Patcher:
+|
+| https://github.com/DerekPascarella/UniversalDreamcastPatcher
+|
+| Note that Universal Dreamcast Patcher supports both TOSEC-style GDI and
+| Redump-style CUE disc images as source input.
+|
+| 1) Click "Select GDI or CUE" to open the source disc image.
+|
+| 2) Click "Select Patch" to open the .DCP patch file.
+|
+| 3) Click "Apply Patch" to generate the patched GDI.
+|    - The patched GDI will be generated in the folder from which the
+|      application is launched.
+|
+| 4) Click "Quit" to exit the application.
 |
 `---------------------------------------------------
 

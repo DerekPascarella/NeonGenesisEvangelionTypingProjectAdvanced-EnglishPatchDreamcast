@@ -1,5 +1,5 @@
 #### Download this patch in DCP format for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a>:
-  * <a href="https://github.com/DerekPascarella/NeonGenesisEvangelionTypingProjectAdvanced-EnglishPatchDreamcast/releases/download/1.0/Neon.Genesis.Evangelion.-.Typing.Project.Advanced.English.-.v1.0.dcp">Neon Genesis Evangelion - Typing Project Advanced (English - v1.0).dcp</a>
+  * <a href="https://github.com/DerekPascarella/NeonGenesisEvangelionTypingProjectAdvanced-EnglishPatchDreamcast/releases/download/1.0/Neon.Genesis.Evangelion.-.Typing.Project.Advanced.ENG.v1.0.dcp">Neon Genesis Evangelion - Typing Project Advanced (ENG v1.0).dcp</a>
 <br>
 <pre>
 Neon Genesis Evangelion - Typing Project Advanced (Shinseiki Evangelion: Typing Hokan Keikaku)
